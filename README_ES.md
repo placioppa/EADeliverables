@@ -6,7 +6,7 @@
 
 ## 1. INTRODUCCIÓN
 
-El presente repositorio cuenta con una solución llamada EADeliverables, cuya estructura se basa principalmente en 3 hojas de cálculo del tipo “Excel con macros” distribuidas equitativamente en tres proyectos internos: _CoreDeliverables_, _OperationalDeliverables_ y _DecisionDeliverables_. Cada una se ubica dentro del directorio /Files de su proyecto de referencia y entre todas constituyen lo que conceptualmente he pasado a denominar: El Framework de asistencia EA para pequeñas y medianas empresas. 
+El presente repositorio cuenta con una solución llamada EADeliverables, cuya estructura se basa principalmente en 3 hojas de cálculo del tipo “Excel con macros” distribuidas equitativamente en tres proyectos internos: _CoreDeliverables_, _OperationalDeliverables_ y _DecisionDeliverables_. Cada una se ubica dentro del directorio /Files de su proyecto de referencia y entre todas constituyen lo que conceptualmente he pasado a denominar: El Framework EA para pequeñas y medianas empresas. 
 
 Por otro lado, el resto de los archivos existentes en cada uno de los módulos mencionados previamente, tienen como función reflejar las funcionalidades extendidas a través de las macros hacia las hojas de cálculo y permitir así una ágil visualización del código fuente utilizado. Los mismos no impactan sobre el funcionamiento real de la macro, sino que simplemente manifiestan una copia del código embebido dentro de cada archivo Excel, por lo que su eventual alteración no tendrá ningún efecto práctico en los resultados.
 
