@@ -1,6 +1,6 @@
 | Autor | Fecha de Creación | Fecha de Edición | Versión |
 | ------------- | ------------- | ------------- | ------------- |
-| Pablo Lacioppa | 08-01-2026  | 08-01-2026 | 0.1 |
+| Pablo Lacioppa | 08-01-2026  | 23-01-2026 | 0.2 |
 
 <br/>
 
@@ -92,4 +92,12 @@ Es recomendable, por sobretodo, evitar modificar las estructuras de las tablas, 
   <img width="531" height="44" alt="Screenshot 2026-01-09 145058" src="https://github.com/user-attachments/assets/d467921b-647f-49b0-a7cd-432445b0aa59" />
 
 
+## 5. USO EN MICRO-EMPRESAS
+
+La utilización del Framework en entornos compuestos por un grupo reducido de personas es no solo posible, sino también recomendable, por diversos motivos.
+En primer lugar, es importante tener en cuenta que existe un conjunto de conocimientos básicos y esenciales que involucran a todos los actores, presentes y futuros, de una compañía. Considérese, por ejemplo, el mapa de partes interesadas (stakeholder map), cuyo objetivo es detallar quiénes son los individuos o grupos de individuos que influyen en proyectos, desarrollos y decisiones. Comprender el alcance que estos pueden tener dentro de la empresa es, por lo tanto, una meta que debería comprometer a todos por igual. En consecuencia, contar con esta información desde el primer día permite no solo comunicar de forma eficiente a los nuevos actores —reduciendo los tiempos del proceso de transferencia de conocimiento—, sino también identificar y comunicar con mayor eficacia a quienes tienen un impacto directo sobre la organización.
+
+En segundo lugar, muchas empresas que buscan —y logran— crecer rápidamente se enfrentan a la compleja tarea de reorganizar sus estructuras internas, ya sea mediante la incorporación de nuevas unidades de negocio o de nuevos actores dentro de estas. Cuando esto ocurre, la naturaleza de la información tiende a fragmentarse, de modo que cada grupo o subgrupo de individuos —ya sea por experiencias profesionales previas o por desconocimiento— termina refiriéndose a los mismos conceptos de maneras distintas. Como consecuencia, se generan duplicaciones de información, procesos redundantes y una sobrecarga de tareas asociadas al alineamiento interno. La solución subyace a través del uso de un "lenguaje común", representado por los documentos que promueve este Framework.
+
+Por último, y de igual forma relacionado con el punto anterior, el lenguaje utilizado en cada uno de los documentos que conforman la solución es, en mayor o menor medida, una representación simplificada de enfoques y soluciones más complejos, propios de contextos empresariales de gran escala, como es el caso del Framework TOGAF. Esto permite que, llegado el momento y de ser necesario, su adopción se realice de manera mucho más eficiente y transparente por contar ya con herramientas y conceptos propios de su estructura.
 
