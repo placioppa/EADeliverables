@@ -1,6 +1,6 @@
-| Autor | Fecha de Creación | Fecha de Edición | Versión |
+| Author | Creation date | Update date | Version |
 | ------------- | ------------- | ------------- | ------------- |
-| Pablo Lacioppa | 08-01-2026  | 08-01-2026 | 0.1 |
+| Pablo Lacioppa | 08-01-2026  | 23-01-2026 | 0.2 |
 
 <br/>
 
@@ -93,4 +93,10 @@ It is strongly recommended to **avoid modifying table structures**, as they are 
   <img width="531" height="44" alt="Screenshot 2026-01-09 145058" src="https://github.com/user-attachments/assets/d467921b-647f-49b0-a7cd-432445b0aa59" />
 
 
+## 5. USE IN MICRO-ENTERPRISES
 
+The use of this Framework in environments composed of a small group of people is not only feasible, but also highly recommended for several reasons. First, it is important to recognize that there is a set of basic and essential knowledge that involves all current and future stakeholders of a company. Consider, for example, the stakeholder map, whose purpose is to identify the individuals or groups that influence projects, initiatives, and decisions. Understanding the scope of their influence within the organization should therefore be a shared objective. Having this information available from day one not only enables more effective communication with new participants—reducing knowledge transfer time—but also allows for clearer identification and communication with those who have a direct impact on the organization.
+
+Second, many companies that seek —and succeed in- rapid growth are confronted with the complex task of reorganizing their internal structures, whether through the creation of new business units or the incorporation of new participants within existing ones. When this occurs, information naturally becomes fragmented, and each group or subgroup—whether due to prior professional experience or lack of shared context—begins to refer to the same concepts using different terminology. This results in duplicated information, redundant processes, and an increased workload associated with internal alignment. The resolution lies in the use of a “common language,” embodied in the documents promoted by this Framework.
+
+Finally, and closely related to the previous point, the language used throughout the documents that comprise this solution represents, to varying degrees, a simplified abstraction of more complex approaches and solutions typically found in large-scale enterprise environments, such as the TOGAF framework. This simplification enables a much more efficient and transparent adoption of such standards in the future, should it become necessary, as the organization will already be familiar with the underlying tools and concepts that form their foundation.
